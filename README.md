@@ -34,9 +34,17 @@ Apache is an open-source web server that processes HTTP requests and delivers we
 The following steps were followed to configure the local server:
 
 1. Downloaded and installed **XAMPP**.
-2. Opened the XAMPP Control Panel.
-3. Started the **Apache** service.
-4. Verified the installation by opening a web browser and navigating to:
+2. <img width="1137" height="584" alt="installation" src="https://github.com/user-attachments/assets/a10d4627-a333-48ee-a20f-434fd572e39a" />
+
+3. Opened the XAMPP Control Panel.
+4. <img width="1130" height="673" alt="IIS page" src="https://github.com/user-attachments/assets/863ab955-8891-4f51-9052-0ac63923899d" />
+
+5. Started the **Apache** service.
+7. <img width="703" height="825" alt="index html source code" src="https://github.com/user-attachments/assets/34dfdfa4-f882-4e96-8f16-7b5f73dd84ac" />
+
+8. Verified the installation by opening a web browser and navigating to:
+9. <img width="1542" height="752" alt="Custom Page" src="https://github.com/user-attachments/assets/7980e3ca-eb23-49b9-b9e5-7ebb386929ef" />
+
 
 ```
 http://localhost
